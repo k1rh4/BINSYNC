@@ -1,5 +1,5 @@
 user = "k1rh4"
 version = 0
-last_push_time = 1660015591
-last_push_artifact = "NODE"
-last_push_artifact_type = "struct"
+last_push_time = 1660015603
+last_push_artifact = 16480
+last_push_artifact_type = "global variable"
